@@ -7,4 +7,4 @@ tokens = sentence_1.split()
 list = [char for char in sentence_2]
 
 print("Tokens in the sentence:", tokens)
-print("Another token:", list)
+print("Another token:", list)  
