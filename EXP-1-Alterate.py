@@ -1,6 +1,5 @@
 #Q1.  To design and implement a nlp based system that automatically detect and translate hindi natural language text within source into english language.....
 
-
 import googletrans 
 from googletrans import Translator
 
